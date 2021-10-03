@@ -1,0 +1,6 @@
+name: WhenPigsAttack
+version: 1.0
+api-version: 1.16 
+main: me.whenPigsAttack.main.Main
+description: nice
+
